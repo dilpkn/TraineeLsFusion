@@ -327,3 +327,87 @@
 19 окт. 2025 17:00:42,906 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1050186687
 19 окт. 2025 17:00:50,164 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@2020908101
 19 окт. 2025 17:00:54,337 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@848270602
+19 окт. 2025 17:01:01,810 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@2020908101
+19 окт. 2025 17:01:24,345 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@42003676
+19 окт. 2025 17:01:45,891 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1050186687
+19 окт. 2025 17:02:24,403 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@60942766
+19 окт. 2025 17:21:20,457 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@1037293922
+19 окт. 2025 17:21:21,958 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@761863997
+19 окт. 2025 17:21:21,958 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1037293922
+19 окт. 2025 17:21:25,226 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@312766685
+19 окт. 2025 17:21:26,532 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@945474471
+19 окт. 2025 17:21:26,532 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@96433495
+19 окт. 2025 17:21:27,262 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@784501687
+19 окт. 2025 17:21:27,453 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@2009478956
+19 окт. 2025 17:21:27,453 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@868137843
+19 окт. 2025 17:21:27,453 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@1207924279
+19 окт. 2025 17:21:27,453 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@549145894
+19 окт. 2025 17:21:27,453 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@1335791478
+19 окт. 2025 17:21:32,036 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@293192911
+19 окт. 2025 17:21:33,332 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@422006689
+19 окт. 2025 17:21:33,603 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@422006689
+19 окт. 2025 17:21:36,010 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@106758093
+19 окт. 2025 17:21:36,368 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@106758093
+19 окт. 2025 17:21:37,618 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1397325781
+19 окт. 2025 17:21:37,768 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1397325781
+19 окт. 2025 17:21:37,776 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1844602098
+19 окт. 2025 17:21:37,862 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1844602098
+19 окт. 2025 17:21:37,870 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1293638999
+19 окт. 2025 17:21:37,934 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1293638999
+19 окт. 2025 17:21:44,150 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@1338380406
+19 окт. 2025 17:21:44,151 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@1855030425
+19 окт. 2025 17:21:44,421 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@784501687
+19 окт. 2025 17:21:44,421 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@868137843
+19 окт. 2025 17:21:44,421 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@945474471
+19 окт. 2025 17:21:44,421 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@549145894
+19 окт. 2025 17:21:44,421 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@2009478956
+19 окт. 2025 17:21:44,421 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1335791478
+19 окт. 2025 17:21:44,421 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@96433495
+19 окт. 2025 17:21:44,421 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1207924279
+19 окт. 2025 17:21:44,462 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@2091289214
+19 окт. 2025 17:21:44,470 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@120785623
+19 окт. 2025 17:21:48,656 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@1306927994
+19 окт. 2025 17:21:48,679 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1306927994
+19 окт. 2025 17:21:48,679 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@2091289214
+19 окт. 2025 17:21:48,679 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@120785623
+19 окт. 2025 17:21:48,708 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@761863997
+19 окт. 2025 17:22:14,152 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@365925028
+19 окт. 2025 17:23:03,941 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1621905362
+19 окт. 2025 17:23:14,176 system - system - system  INFO ExInfoLogger - SQL SESSION OPEN SQL@2061323466
+19 окт. 2025 17:23:51,570 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@963932502
+19 окт. 2025 17:23:56,756 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1851284414
+19 окт. 2025 17:23:56,770 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1851284414
+19 окт. 2025 17:23:58,258 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@843150579
+19 окт. 2025 17:23:58,261 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - THREAD INTERRUPT Thread[RMI:Main.receipt, TID - (84),5,RMI Runtime]
+19 окт. 2025 17:23:58,261 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - THREAD INTERRUPT ENDED Thread[RMI:Main.receipt, TID - (84),5,RMI Runtime]
+19 окт. 2025 17:23:58,273 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@843150579
+19 окт. 2025 17:23:59,518 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@794755180
+19 окт. 2025 17:23:59,524 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@794755180
+19 окт. 2025 17:24:00,298 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1852690750
+19 окт. 2025 17:24:00,298 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - THREAD INTERRUPT Thread[RMI:Main.receipt, TID - (84),5,RMI Runtime]
+19 окт. 2025 17:24:00,298 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - THREAD INTERRUPT ENDED Thread[RMI:Main.receipt, TID - (84),5,RMI Runtime]
+19 окт. 2025 17:24:00,306 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1852690750
+19 окт. 2025 17:24:26,189 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1621905362
+19 окт. 2025 17:24:38,288 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@313234198
+19 окт. 2025 17:24:38,302 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@313234198
+19 окт. 2025 17:24:42,265 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1389529980
+19 окт. 2025 17:24:42,298 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - THREAD INTERRUPT Thread[RMI:Main.receipt, TID - (85),5,RMI Runtime]
+19 окт. 2025 17:24:42,298 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - THREAD INTERRUPT ENDED Thread[RMI:Main.receipt, TID - (85),5,RMI Runtime]
+19 окт. 2025 17:24:42,299 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION INTERRUPT Thread[RMI:Main.receipt, TID - (85),5,RMI Runtime] PROCESS 85 SQL 49088 QUERY SELECT t0.k0 AS jkey0,(ts_headline('russian',t0.k0,prefixSearch('russian', 'товар 1', ','))) AS jprop0,(ts_rank(to_tsvector('russian', t0.k0),prefixSearch('russian', 'товар 1', ','))) AS jprop1,t0.e0 AS jprop2 FROM (SELECT t0.e0 AS k0,notZero(SUM(1)) AS e0 FROM (SELECT t0.key0 AS k0,t0.Main_name_Item AS e0 FROM _auto_Main_Item t0 WHERE (to_tsvector('russian', t0.Main_name_Item) @@ prefixSearch('russian', CAST('товар 1' AS varchar(7)), ',') OR t0.Main_name_Item ILIKE ('%' || CAST('товар 1' AS varchar(7)) || '%')) LIMIT 25) t0 WHERE 1=1 GROUP BY 1) t0 WHERE t0.e0 IS NOT NULL ORDER BY 3 DESC NULLS LAST,4 DESC NULLS LAST LIMIT 15
+19 окт. 2025 17:24:42,347 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1389529980
+19 окт. 2025 17:24:52,278 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@255726639
+19 окт. 2025 17:24:52,285 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@255726639
+19 окт. 2025 17:25:33,203 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@469738665
+19 окт. 2025 17:26:28,315 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1879933365
+19 окт. 2025 17:26:28,321 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1879933365
+19 окт. 2025 17:26:29,486 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1922730472
+19 окт. 2025 17:26:29,486 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - THREAD INTERRUPT Thread[RMI:Main.shipment, TID - (88),5,RMI Runtime]
+19 окт. 2025 17:26:29,486 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - THREAD INTERRUPT ENDED Thread[RMI:Main.shipment, TID - (88),5,RMI Runtime]
+19 окт. 2025 17:26:29,492 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1922730472
+19 окт. 2025 17:26:30,179 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1529079253
+19 окт. 2025 17:26:30,184 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1529079253
+19 окт. 2025 17:26:49,895 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1496186861
+19 окт. 2025 17:26:49,900 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1496186861
+19 окт. 2025 17:26:51,644 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION OPEN SQL@1419538354
+19 окт. 2025 17:26:51,650 admin - dilpkn - 172.20.10.3  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1419538354
+19 окт. 2025 17:28:22,731 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@469738665

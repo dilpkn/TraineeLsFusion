@@ -71,6 +71,7 @@ FORM receipt 'Приход'
     
     OBJECTS l = ReceiptLine
     PROPERTIES (l) index, nameItem, quantity, NEW, DELETE 
+    FILTERS receipt(l) = r      //для каждого документа будут показываться его строки
     
     EDIT Receipt OBJECT r
 ;    
@@ -112,8 +113,22 @@ FORM shipment 'Расход'
 
     OBJECTS l = ShipmentLine
     PROPERTIES (l) index, nameItem, quantity, NEW, DELETE
-
+    FILTERS shipment(l) = r
+    
     EDIT Shipment OBJECT r
+;
+
+inQuantity 'Приход' (Stock s, Item i) = GROUP SUM quantity(ReceiptLine l ) BY stock(receipt(l)), item(l); //просуммировали колво в строке и сгруппировали по складу прихода этой строки и по товару этой строки
+outQuantity 'Расход' (Stock s, Item i) = GROUP SUM quantity(ShipmentLine l ) BY stock(shipment(l)), item(l);
+
+balance 'Остаток' (Stock s, Item i) = inQuantity(s,i) (-) outQuantity(s,i);
+
+
+FORM balance 'Остатки'
+    OBJECTS (s = Stock, i = Item)
+    PROPERTIES READONLY name(s), name(i), balance(s,i)
+    ORDERS name(s), name(i) //сортировка сначала по складу потом по товару
+    FILTERS balance(s,i)    //не показывались item-ы, по которым стоков нет. т.е. balance существовал
 ;
 
 
@@ -127,4 +142,5 @@ NAVIGATOR {
         NEW receipts;
         NEW shipments;
     }
+    NEW  balance AFTER documents;
 }
