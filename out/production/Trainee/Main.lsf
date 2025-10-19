@@ -1,0 +1,130 @@
+MODULE Main;
+
+REQUIRE Time;
+
+CLASS Stock 'Склад';
+
+name 'Наименование' = DATA STRING (Stock);
+adress 'Адрес' = DATA STRING (Stock);
+
+FORM stocks 'Склады'        //логика представления
+     OBJECTS s = Stock
+    PROPERTIES (s) name, adress, NEW, DELETE
+;    
+
+CLASS Item 'Товары';
+
+name 'Наименование' = DATA STRING[50](Item);
+barcode 'QrCode' = DATA STRING[13](Item);
+salePrise 'Цена продажи' = DATA NUMERIC[15,2] (Item);
+
+FORM items 'Товары'
+    OBJECTS i = Item
+    PROPERTIES (i) name, barcode, salePrise, NEW, DELETE
+;
+
+CLASS LegalEntity 'Организация';
+
+name 'Наименование' = DATA  STRING (LegalEntity);
+inn 'ИНН' = DATA STRING (LegalEntity);
+
+legalEntity 'Организация' (STRING inn) = GROUP AGGR LegalEntity le BY inn(le);
+
+FORM legalEntites 'Организации'
+    OBJECTS le = LegalEntity
+    PROPERTIES (le) name, inn, NEW, DELETE 
+;
+
+CLASS Receipt 'Приход';
+
+number 'Номер документа' = DATA INTEGER (Receipt);
+data 'Дата' = DATA DATE (Receipt);
+
+WHEN LOCAL SET(Receipt r IS Receipt) DO data(r) <- DATE(currentDateTime());
+
+legalEntity 'Организация' = DATA LegalEntity (Receipt);
+nameLegalEntity 'Организация'(Receipt r) = name(legalEntity(r));
+
+stock 'Склад' = DATA Stock(Receipt); 
+nameStock 'Склад' (Receipt r) = name(stock(r));
+
+CLASS ReceiptLine 'Строка прихода';
+
+receipt 'Документ' = DATA Receipt(ReceiptLine) NONULL DELETE ;
+
+index '№№' (ReceiptLine l) = PARTITION SUM 1 IF l IS ReceiptLine ORDER l BY receipt(l); 
+
+item 'Товар' = DATA Item(ReceiptLine);
+nameItem 'Товар' (ReceiptLine l) = name(item(l));
+
+quantity 'Количество' = DATA NUMERIC[15,3] (ReceiptLine);
+
+FORM receipts 'Приходы'
+    OBJECTS r = Receipt
+    PROPERTIES (r) READONLY number, data, nameLegalEntity, nameStock
+    PROPERTIES (r) NEWSESSION NEW, EDIT, DELETE 
+;
+
+FORM receipt 'Приход'
+    OBJECTS r = Receipt PANEL 
+    PROPERTIES (r) number, data, nameLegalEntity, nameStock
+    
+    OBJECTS l = ReceiptLine
+    PROPERTIES (l) index, nameItem, quantity, NEW, DELETE 
+    
+    EDIT Receipt OBJECT r
+;    
+    
+
+CLASS Shipment 'Отгрузка';
+
+number 'Номер документа' = DATA INTEGER (Shipment);
+data 'Дата' = DATA DATE (Shipment);
+
+WHEN LOCAL SET(Shipment r IS Shipment) DO data(r) <- DATE(currentDateTime());
+
+legalEntity 'Организация' = DATA LegalEntity (Shipment);
+nameLegalEntity 'Организация'(Shipment r) = name(legalEntity(r));
+
+stock 'Склад' = DATA Stock(Shipment);
+nameStock 'Склад' (Shipment r) = name(stock(r));
+
+CLASS ShipmentLine 'Строка отгрузки';
+
+shipment 'Документ' = DATA Shipment(ShipmentLine) NONULL DELETE ;
+
+index '№№' (ShipmentLine l) = PARTITION SUM 1 IF l IS ShipmentLine ORDER l BY shipment(l);
+
+item 'Товар' = DATA Item(ShipmentLine);
+nameItem 'Товар' (ShipmentLine l) = name(item(l));
+
+quantity 'Количество' = DATA NUMERIC[15,3] (ShipmentLine);
+
+FORM shipments 'Расходы'
+    OBJECTS r = Shipment
+    PROPERTIES (r) READONLY number, data, nameLegalEntity, nameStock
+    PROPERTIES (r) NEWSESSION NEW, EDIT, DELETE
+;
+
+FORM shipment 'Расход'
+    OBJECTS r = Shipment PANEL
+    PROPERTIES (r) number, data, nameLegalEntity, nameStock
+
+    OBJECTS l = ShipmentLine
+    PROPERTIES (l) index, nameItem, quantity, NEW, DELETE
+
+    EDIT Shipment OBJECT r
+;
+
+
+NAVIGATOR {
+    NEW FOLDER masterData 'НСИ' FIRST WINDOW toolbar{
+        NEW stocks;
+        NEW items;
+        NEW legalEntites;
+    }
+    NEW FOLDER documents 'Документы' AFTER masterData WINDOW toolbar{
+        NEW receipts;
+        NEW shipments;
+    }
+}

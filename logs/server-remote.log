@@ -1,0 +1,196 @@
+19 окт. 2025 14:14:19,580 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@d0a880d
+19 окт. 2025 14:14:26,821 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[1697777943 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]
+19 окт. 2025 14:14:44,567 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM HIDE : FORM[1697777943 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]
+19 окт. 2025 14:14:44,568 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1697777943 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]]
+19 окт. 2025 14:14:48,279 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[1032266258 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]
+19 окт. 2025 14:14:48,388 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT UNREFERENCED RF[FORM[1697777943 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]]
+19 окт. 2025 14:14:49,614 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1697777943 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]]
+19 окт. 2025 14:14:50,148 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM HIDE : FORM[1032266258 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]
+19 окт. 2025 14:14:50,148 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1032266258 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]]
+19 окт. 2025 14:14:54,622 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1697777943 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]]
+19 окт. 2025 14:14:54,624 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM CLOSE : FORM[1697777943 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]
+19 окт. 2025 14:14:55,181 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1032266258 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]]
+19 окт. 2025 14:15:00,184 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1032266258 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]]
+19 окт. 2025 14:15:00,184 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM CLOSE : FORM[1032266258 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]
+19 окт. 2025 14:19:51,783 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[1897958022 - Word.templates,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]
+19 окт. 2025 14:19:54,168 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM HIDE : FORM[1897958022 - Word.templates,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]
+19 окт. 2025 14:19:54,169 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1897958022 - Word.templates,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]]
+19 окт. 2025 14:19:59,233 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1897958022 - Word.templates,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]]
+19 окт. 2025 14:20:04,237 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1897958022 - Word.templates,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]]
+19 окт. 2025 14:20:04,237 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM CLOSE : FORM[1897958022 - Word.templates,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',218793997,SQL@1422026341]]
+19 окт. 2025 14:31:45,216 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@785f42cb
+19 окт. 2025 14:31:49,690 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - Executed remote method (time: 3159 ms.): getNavigatorTree()
+19 окт. 2025 14:31:56,959 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[1329050426 - Main.items,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',2019508939,SQL@1796116898]]
+19 окт. 2025 14:32:25,192 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[611743525 - Main.items,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',2019508939,SQL@1796116898]]
+19 окт. 2025 14:32:27,480 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[1164615752 - Main.legalEntites,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',2019508939,SQL@1796116898]]
+19 окт. 2025 14:32:30,753 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM HIDE : FORM[611743525 - Main.items,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',2019508939,SQL@1796116898]]
+19 окт. 2025 14:32:30,754 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[611743525 - Main.items,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',2019508939,SQL@1796116898]]]
+19 окт. 2025 14:32:35,797 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[611743525 - Main.items,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',2019508939,SQL@1796116898]]]
+19 окт. 2025 14:32:40,804 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[611743525 - Main.items,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',2019508939,SQL@1796116898]]]
+19 окт. 2025 14:32:40,804 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM CLOSE : FORM[611743525 - Main.items,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',2019508939,SQL@1796116898]]
+19 окт. 2025 14:33:01,218 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@5f753f83
+19 окт. 2025 14:33:06,532 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - Executed remote method (time: 3953 ms.): getNavigatorTree()
+19 окт. 2025 14:33:28,604 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[564614327 - Main.legalEntites,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1601519491,SQL@1417361564]]
+19 окт. 2025 14:33:53,101 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@552ba04a
+19 окт. 2025 14:50:11,729 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[808865677 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1428922442,SQL@1477473253]]
+19 окт. 2025 14:50:16,332 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 895, SID: _NEW_Main_stocks_s()]
+19 окт. 2025 14:50:16,425 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 895, SID: _NEW_Main_stocks_s()]
+19 окт. 2025 14:50:17,883 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.stocks, TID - (83),5,RMI Runtime], indices : (-1,0,1), value : 
+19 окт. 2025 14:50:17,912 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.stocks, TID - (83),5,RMI Runtime], indices : (-1,0,1)
+19 окт. 2025 14:50:23,224 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 864, SID: name(s)]
+19 окт. 2025 14:50:23,234 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 864, SID: name(s)]
+19 окт. 2025 14:50:24,218 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.stocks, TID - (83),5,RMI Runtime], indices : (-1,0,2), value : а
+19 окт. 2025 14:50:24,236 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.stocks, TID - (83),5,RMI Runtime], indices : (-1,0,2)
+19 окт. 2025 14:50:29,876 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 868, SID: adress(s)]
+19 окт. 2025 14:50:29,880 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 868, SID: adress(s)]
+19 окт. 2025 14:50:31,289 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.stocks, TID - (83),5,RMI Runtime], indices : (-1,0,3), value : 
+19 окт. 2025 14:50:31,296 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.stocks, TID - (83),5,RMI Runtime], indices : (-1,0,3)
+19 окт. 2025 14:50:35,730 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 868, SID: adress(s)]
+19 окт. 2025 14:50:35,732 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 868, SID: adress(s)]
+19 окт. 2025 14:50:55,470 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 895, SID: _NEW_Main_stocks_s()]
+19 окт. 2025 14:50:55,481 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 895, SID: _NEW_Main_stocks_s()]
+19 окт. 2025 14:50:56,573 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.stocks, TID - (83),5,RMI Runtime], indices : (-1,0,4), value : 
+19 окт. 2025 14:50:56,573 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.stocks, TID - (83),5,RMI Runtime], indices : (-1,0,4)
+19 окт. 2025 14:50:58,810 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 864, SID: name(s)]
+19 окт. 2025 14:50:58,820 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 864, SID: name(s)]
+19 окт. 2025 14:51:00,034 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.stocks, TID - (83),5,RMI Runtime], indices : (-1,0,5), value : 
+19 окт. 2025 14:51:00,034 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.stocks, TID - (83),5,RMI Runtime], indices : (-1,0,5)
+19 окт. 2025 14:51:03,571 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 868, SID: adress(s)]
+19 окт. 2025 14:51:03,582 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 868, SID: adress(s)]
+19 окт. 2025 14:51:37,790 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 844, SID: formApply()]
+19 окт. 2025 14:51:37,954 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 844, SID: formApply()]
+19 окт. 2025 14:51:39,590 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[1543108630 - Main.items,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1428922442,SQL@1477473253]]
+19 окт. 2025 14:51:57,693 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1046, SID: _NEW_Main_items_i()]
+19 окт. 2025 14:51:57,694 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1046, SID: _NEW_Main_items_i()]
+19 окт. 2025 14:51:59,084 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.items, TID - (86),5,RMI Runtime], indices : (-1,0,1), value : 
+19 окт. 2025 14:51:59,097 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.items, TID - (86),5,RMI Runtime], indices : (-1,0,1)
+19 окт. 2025 14:52:06,401 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1030, SID: name(i)]
+19 окт. 2025 14:52:06,404 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1030, SID: name(i)]
+19 окт. 2025 14:52:06,407 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.items, TID - (83),5,RMI Runtime], indices : (-1,0,2), value : 
+19 окт. 2025 14:52:06,413 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.items, TID - (83),5,RMI Runtime], indices : (-1,0,2)
+19 окт. 2025 14:52:08,850 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1036, SID: barcode(i)]
+19 окт. 2025 14:52:08,854 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1036, SID: barcode(i)]
+19 окт. 2025 14:52:12,208 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1041, SID: salePrise(i)]
+19 окт. 2025 14:52:12,225 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1041, SID: salePrise(i)]
+19 окт. 2025 14:52:14,093 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1046, SID: _NEW_Main_items_i()]
+19 окт. 2025 14:52:14,099 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1046, SID: _NEW_Main_items_i()]
+19 окт. 2025 14:52:15,164 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.items, TID - (83),5,RMI Runtime], indices : (-1,0,3), value : 
+19 окт. 2025 14:52:15,165 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.items, TID - (83),5,RMI Runtime], indices : (-1,0,3)
+19 окт. 2025 14:52:17,986 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1030, SID: name(i)]
+19 окт. 2025 14:52:17,992 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1030, SID: name(i)]
+19 окт. 2025 14:52:19,139 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.items, TID - (83),5,RMI Runtime], indices : (-1,0,4), value : 2
+19 окт. 2025 14:52:19,149 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.items, TID - (83),5,RMI Runtime], indices : (-1,0,4)
+19 окт. 2025 14:52:20,704 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1036, SID: barcode(i)]
+19 окт. 2025 14:52:20,712 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1036, SID: barcode(i)]
+19 окт. 2025 14:52:24,747 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1041, SID: salePrise(i)]
+19 окт. 2025 14:52:24,775 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1041, SID: salePrise(i)]
+19 окт. 2025 14:52:24,776 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1046, SID: _NEW_Main_items_i()]
+19 окт. 2025 14:52:24,805 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1046, SID: _NEW_Main_items_i()]
+19 окт. 2025 14:52:29,085 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1011, SID: formApply()]
+19 окт. 2025 14:52:29,194 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1011, SID: formApply()]
+19 окт. 2025 14:52:31,591 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[1039146409 - Main.legalEntites,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1428922442,SQL@1477473253]]
+19 окт. 2025 14:54:16,450 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1385, SID: _NEW_Main_legalEntites_le()]
+19 окт. 2025 14:54:16,454 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1385, SID: _NEW_Main_legalEntites_le()]
+19 окт. 2025 14:54:17,479 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,1), value : 
+19 окт. 2025 14:54:17,488 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,1)
+19 окт. 2025 14:54:21,836 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1382, SID: name(le)]
+19 окт. 2025 14:54:21,839 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1382, SID: name(le)]
+19 окт. 2025 14:54:22,550 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,2), value : 1
+19 окт. 2025 14:54:22,558 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,2)
+19 окт. 2025 14:54:23,448 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1383, SID: inn(le)]
+19 окт. 2025 14:54:23,450 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1383, SID: inn(le)]
+19 окт. 2025 14:54:25,814 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1385, SID: _NEW_Main_legalEntites_le()]
+19 окт. 2025 14:54:25,821 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1385, SID: _NEW_Main_legalEntites_le()]
+19 окт. 2025 14:54:26,681 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,3), value : о
+19 окт. 2025 14:54:26,691 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,3)
+19 окт. 2025 14:54:27,908 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,4), value : 
+19 окт. 2025 14:54:27,918 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,4)
+19 окт. 2025 14:54:30,508 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1383, SID: inn(le)]
+19 окт. 2025 14:54:30,512 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.legalEntites, TID - (90),5,RMI Runtime], indices : (-1,0,5), value : 
+19 окт. 2025 14:54:30,512 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.legalEntites, TID - (90),5,RMI Runtime], indices : (-1,0,5)
+19 окт. 2025 14:54:30,516 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1383, SID: inn(le)]
+19 окт. 2025 14:54:34,577 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1382, SID: name(le)]
+19 окт. 2025 14:54:34,587 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1382, SID: name(le)]
+19 окт. 2025 14:54:35,774 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,6), value : 1
+19 окт. 2025 14:54:35,775 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,6)
+19 окт. 2025 14:54:36,498 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1383, SID: inn(le)]
+19 окт. 2025 14:54:36,502 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1383, SID: inn(le)]
+19 окт. 2025 14:54:38,379 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1370, SID: formApply()]
+19 окт. 2025 14:54:38,480 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1370, SID: formApply()]
+19 окт. 2025 14:54:41,694 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,7), value : 
+19 окт. 2025 14:54:41,694 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.legalEntites, TID - (86),5,RMI Runtime], indices : (-1,0,7)
+19 окт. 2025 14:54:43,433 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1383, SID: inn(le)]
+19 окт. 2025 14:54:43,437 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1383, SID: inn(le)]
+19 окт. 2025 14:55:09,159 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1370, SID: formApply()]
+19 окт. 2025 14:55:09,241 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1370, SID: formApply()]
+19 окт. 2025 16:18:12,518 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[424541526 - Chat.fullChat,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1428922442,SQL@1477473253]]
+19 окт. 2025 16:18:14,761 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM HIDE : FORM[424541526 - Chat.fullChat,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1428922442,SQL@1477473253]]
+19 окт. 2025 16:18:14,761 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[424541526 - Chat.fullChat,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1428922442,SQL@1477473253]]]
+19 окт. 2025 16:18:15,717 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT UNREFERENCED RF[FORM[424541526 - Chat.fullChat,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1428922442,SQL@1477473253]]]
+19 окт. 2025 16:18:19,827 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[424541526 - Chat.fullChat,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1428922442,SQL@1477473253]]]
+19 окт. 2025 16:18:24,835 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[424541526 - Chat.fullChat,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1428922442,SQL@1477473253]]]
+19 окт. 2025 16:18:24,835 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM CLOSE : FORM[424541526 - Chat.fullChat,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1428922442,SQL@1477473253]]
+19 окт. 2025 16:49:05,627 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@400e009a
+19 окт. 2025 16:49:38,652 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[798053183 - Authentication.reloginLoginUser,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]
+19 окт. 2025 16:49:41,216 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM HIDE : FORM[798053183 - Authentication.reloginLoginUser,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]
+19 окт. 2025 16:49:41,218 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[798053183 - Authentication.reloginLoginUser,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]]
+19 окт. 2025 16:49:44,736 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[606339660 - Main.stocks,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]
+19 окт. 2025 16:49:44,987 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT UNREFERENCED RF[FORM[798053183 - Authentication.reloginLoginUser,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]]
+19 окт. 2025 16:49:46,280 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[798053183 - Authentication.reloginLoginUser,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]]
+19 окт. 2025 16:49:46,833 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[943560362 - Main.items,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]
+19 окт. 2025 16:49:51,283 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[798053183 - Authentication.reloginLoginUser,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]]
+19 окт. 2025 16:49:51,283 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM CLOSE : FORM[798053183 - Authentication.reloginLoginUser,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]
+19 окт. 2025 16:49:51,362 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1485, SID: _DELETE(i)]
+19 окт. 2025 16:49:51,372 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1485, SID: _DELETE(i)]
+19 окт. 2025 16:49:53,276 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1462, SID: formApply()]
+19 окт. 2025 16:49:53,546 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1462, SID: formApply()]
+19 окт. 2025 16:49:58,453 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[210083469 - Main.legalEntites,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]
+19 окт. 2025 16:50:02,540 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[1050823151 - Main.receipts,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]
+19 окт. 2025 16:51:59,522 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1659, SID: _ADDFORMNEWSESSION_Main_receipts_r_Main_Receipt()]
+19 окт. 2025 16:51:59,747 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[479418650 - Main.receipt,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1074659482,SQL@1239447103]]
+19 окт. 2025 16:52:13,883 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1682, SID: number(r)]
+19 окт. 2025 16:52:13,922 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1682, SID: number(r)]
+19 окт. 2025 16:52:14,850 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (-1,0,1), value : 
+19 окт. 2025 16:52:14,893 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (-1,0,1)
+19 окт. 2025 16:52:14,979 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (4,3,1), value : 
+19 окт. 2025 16:52:14,985 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (4,3,1)
+19 окт. 2025 16:52:16,692 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (-1,0,2), value : J
+19 окт. 2025 16:52:16,708 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (-1,0,2)
+19 окт. 2025 16:52:17,528 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (-1,0,3), value : 
+19 окт. 2025 16:52:17,528 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (-1,0,3)
+19 окт. 2025 16:52:19,803 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1684, SID: nameLegalEntity(r)]
+19 окт. 2025 16:52:19,819 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1684, SID: nameLegalEntity(r)]
+19 окт. 2025 16:52:21,993 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (-1,0,4), value : 
+19 окт. 2025 16:52:22,004 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (-1,0,4)
+19 окт. 2025 16:52:22,037 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (6,5,4), value : 
+19 окт. 2025 16:52:22,038 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (6,5,4)
+19 окт. 2025 16:52:23,403 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (-1,0,5), value : Склад1
+19 окт. 2025 16:52:23,406 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues started: Thread[RMI:Main.receipt, TID - (50),5,RMI Runtime], indices : (-1,0,6), value : null
+19 окт. 2025 16:52:23,408 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1685, SID: nameStock(r)]
+19 окт. 2025 16:52:23,415 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.receipt, TID - (50),5,RMI Runtime], indices : (-1,0,6)
+19 окт. 2025 16:52:23,415 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues ended: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (-1,0,5)
+19 окт. 2025 16:52:23,415 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - getAsyncValues before 1 sleep: Thread[RMI:Main.receipt, TID - (96),5,RMI Runtime], indices : (-1,0,5)
+19 окт. 2025 16:52:23,425 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1685, SID: nameStock(r)]
+19 окт. 2025 17:00:37,065 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@69a033b3
+19 окт. 2025 17:00:42,845 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[1450496522 - Main.shipments,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]
+19 окт. 2025 17:00:45,804 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[1821238438 - Main.receipts,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]
+19 окт. 2025 17:00:50,107 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction started: [ID: 1637, SID: _ADDFORMNEWSESSION_Main_receipts_r_Main_Receipt()]
+19 окт. 2025 17:00:50,151 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM OPEN : FORM[392005540 - Main.receipt,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]
+19 окт. 2025 17:00:55,348 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM HIDE : FORM[392005540 - Main.receipt,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]
+19 окт. 2025 17:00:55,348 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[392005540 - Main.receipt,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]]
+19 окт. 2025 17:00:55,438 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - executeEventAction ended: [ID: 1637, SID: _ADDFORMNEWSESSION_Main_receipts_r_Main_Receipt()]
+19 окт. 2025 17:00:56,654 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM HIDE : FORM[1821238438 - Main.receipts,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]
+19 окт. 2025 17:00:56,654 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1821238438 - Main.receipts,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]]
+19 окт. 2025 17:00:56,771 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT UNREFERENCED RF[FORM[392005540 - Main.receipt,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]]
+19 окт. 2025 17:00:57,513 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM HIDE : FORM[1450496522 - Main.shipments,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]
+19 окт. 2025 17:00:57,513 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1450496522 - Main.shipments,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]]
+19 окт. 2025 17:00:57,551 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT UNREFERENCED RF[FORM[1821238438 - Main.receipts,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]]
+19 окт. 2025 17:01:00,454 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[392005540 - Main.receipt,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]]
+19 окт. 2025 17:01:01,810 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1821238438 - Main.receipts,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]]
+19 окт. 2025 17:01:02,563 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1450496522 - Main.shipments,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]]
+19 окт. 2025 17:01:05,469 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[392005540 - Main.receipt,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]]
+19 окт. 2025 17:01:05,469 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM CLOSE : FORM[392005540 - Main.receipt,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]
+19 окт. 2025 17:01:06,820 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1821238438 - Main.receipts,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]]
+19 окт. 2025 17:01:06,820 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM CLOSE : FORM[1821238438 - Main.receipts,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]
+19 окт. 2025 17:01:07,566 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1450496522 - Main.shipments,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]]
+19 окт. 2025 17:01:07,566 admin - dilpkn - 172.20.10.3  INFO RemoteLogger - FORM CLOSE : FORM[1450496522 - Main.shipments,RN[clientAddress: 172.20.10.3,263 - Authentication.CustomUser 'Обычный пользователь',1772106675,SQL@322180631]]
